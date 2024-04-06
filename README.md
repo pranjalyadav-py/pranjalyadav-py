@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranjalyadav_yp" target="blank"><img src="https://img.shields.io/twitter/follow/pranjalyadav_yp?logo=twitter&style=for-the-badge" alt="pranjalyadav_yp" /></a> </p>
 
-- 🌱 I’m currently learning **more about Fullstack and ML.**
+- 🌱 I’m currently learning **about ML, Advanced Fullstack Concepts, and improving my problem-solving skills more.**
 
 - 💬 Ask me about **FullStack, Algorithms, C++, Python**
 
